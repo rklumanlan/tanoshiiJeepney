@@ -1,0 +1,17 @@
+<ion-view >
+  <ion-nav-title>ジープニー経路</ion-nav-title>
+  <ion-content class="padding">
+
+    <div class="row responsive-sm responsive-md responsive-lg">
+      <div class="col">
+        <img style="width: 100%; height: auto;" ng-src="{{jeep.type}}" >
+        <h2>{{jeep.name}}</h2>
+        <h3>{{jeep.color}}</h3><br/>
+        <h4>Route Description: <br/>{{jeep.route}}</h4><br/>
+        <a class="button button-large button-positive button-block icon icon-right ion-chevron-right" href="#/tab/jeeps/{{jeep._id}}/maps">View Map</a>
+      </div>
+    </div>
+
+
+  </ion-content>
+</ion-view>

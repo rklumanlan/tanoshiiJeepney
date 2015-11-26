@@ -1,0 +1,24 @@
+<!--
+Create tabs with an icon and label, using the tabs-positive style.
+Each tab's child <ion-nav-view> directive will have its own
+navigation history that also transitions its views in and out.
+-->
+<ion-tabs class="tabs-icon-top tabs-positive">
+
+  <!-- Jeep Tab -->
+  <ion-tab title="ジープニー経路" icon-off="ion-android-bus" icon-on="ion-android-bus" href="#/tab/jeep" on-select="tabSelected()">
+    <ion-nav-view name="tab-jeep"></ion-nav-view>
+  </ion-tab>
+
+  <!-- Find route Tab -->
+  <ion-tab title="経路を検索(Find routes)" icon-off="ion-android-search" icon-on="ion-android-search" href="#/tab/findroute" on-select="tabSelected()">
+    <ion-nav-view name="tab-findroute"></ion-nav-view>
+  </ion-tab>
+
+  <!-- Information Tab -->
+  <ion-tab title="使い方(How to Use)" icon-off="ion-ios-information-outline" icon-on="ion-ios-information" href="#/tab/howto">
+    <ion-nav-view name="tab-howto"></ion-nav-view>
+  </ion-tab>
+
+
+</ion-tabs>

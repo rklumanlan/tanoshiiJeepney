@@ -1,0 +1,30 @@
+<ion-view view-title="ジープニー経路">
+  <ion-content>
+    <div class="item item-divider divider-title">
+      <h2>Angeles City</h2>
+    </div>
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="ac_jeep in ac_jeeps " type="item-text-wrap" href="#/tab/jeeps/{{ac_jeep._id}}">
+        <img ng-src="{{ac_jeep.type}}">
+        <h2>{{ac_jeep.name}}</h2>
+        <p>{{ac_jeep.color}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+    </ion-list>
+    <div class="item item-divider divider-title" >
+      <h2>Clark </h2>
+
+
+
+    </div>
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="c_jeep in c_jeeps " type="item-text-wrap" href="#/tab/jeeps/{{c_jeep._id}}">
+        <img ng-src="{{c_jeep.type}}">
+        <h2>{{c_jeep.name}}</h2>
+        <p>{{c_jeep.color}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+        </ion-option-button>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

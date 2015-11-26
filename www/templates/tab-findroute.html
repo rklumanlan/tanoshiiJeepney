@@ -1,0 +1,57 @@
+<ion-view cache-view="false">
+  <ion-nav-title>ジープニーの経路(Jeepney Route)</ion-nav-title>
+  <ion-content>
+    <div class="padding">
+      <div class="padding strechDiv" style="background-color:gray" >
+        <form name="myForm" novalidate>
+        <div class="item item-divider divider-title text-center">
+          <h2>From</h2>
+        </div>
+        <div class="item item-button-right" ng-click="openModal('from',$event)">
+          <label id="point_a" for="{{text_point_A}}">{{text_point_A}}</label>
+          <button class="button button-positive">
+            <i class="icon ion-chevron-down"></i>
+          </button>
+        </div>
+        <div class="item item-divider divider-title text-center">
+          <h2>To</h2>
+        </div>
+        <div class="item item-button-right" ng-click="openModal('to')">
+          <label id="point_b" for="{{text_point_B}}">{{text_point_B}}</label>
+          <button class="button button-positive">
+            <i class="icon ion-chevron-down"></i>
+          </button>
+        </div>
+        <button class="button button-full button-positive" ng-click="submit()">
+          Find Route
+        </button>
+      </form>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
+
+  <script id="custom_textbox.html" type="text/ng-template">
+  <ion-view class="fancy-select-items modal">
+    <ion-header-bar class="bar-positive">
+
+      <button ng-click="closeModal()" class="button button-positive button-icon ion-chevron-left"> Back</button>
+
+      <h1 class="title">{{headerText}}</h1>
+
+    </ion-header-bar>
+    <ion-header-bar class="bar bar-subheader">
+      <label class="item item-input">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="text" ng-model="modal.search" placeholder="Search" >
+      </label>
+    </ion-header-bar>
+    <ion-content>
+      <div>{{a}}
+        <label ng-repeat="item in items | filter:modal.search" class="item item-text-wrap" ng-click="validateSingle(item,ctr)">
+          {{item}}
+        </label>
+      </div>
+    </ion-content>
+  </ion-view>
+  </script>
