@@ -9,7 +9,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/sm_c_point_holy.jpg',
      route: 'Check-Point-Holy route is from Maingate to Holy Angel University.',
      category: 'Angeles',
-     coordi: '15.16840,120.58442|15.169379,120.587649|15.168704,120.588164|15.168541,120.588467|15.168711,120.588978|15.168684,120.589138|15.16857751,120.58933116|15.16851538,120.58937877|15.16747404,120.58973551|15.165263,120.590374|15.162861,120.591012|15.159392,120.591881|15.158077,120.592182|15.157543,120.592284|15.157031,120.592278|15.153023,120.591935|15.152765,120.591903|15.152592,120.591808|15.151123,120.591184|15.148034,120.589746|15.145045,120.588708|15.143464,120.58836|15.14186,120.58799|15.141278,120.587804|15.140487,120.587681|15.139904,120.587587|15.139166,120.587468|15.137981,120.587043|15.1368,120.586914|15.136365,120.587729|15.13695,120.588032|15.137851,120.588826|15.138027,120.588547|15.139102,120.587394|15.139142,120.587464|15.140249,120.587648|15.141303,120.587828|15.14186,120.58799|15.143469,120.588371|15.145045,120.588708|15.148034,120.589746|15.151123,120.591184|15.151754,120.592407|15.152818,120.592174|15.155949,120.592289|15.157543,120.592284|15.158077,120.592182|15.159392,120.591881|15.162861,120.591012|15.165263,120.590374|15.16747404,120.58973551|15.16834711,120.5895550|15.16845800,120.5894807|15.169726,120.588931|15.168872,120.585943|15.16840,120.58440|15.168256,120.58399|15.168036,120.583658|15.167989,120.583636|15.167868,120.583204|15.167787,120.582829|15.16834,120.58276|15.167787,120.582829|15.167868,120.583204|15.167989,120.583636|15.168036,120.583658|15.168334,120.584291|15.16838,120.5844'
+     coordi: '15.16840,120.58442|15.169379,120.587649|15.168704,120.588164|15.168541,120.588467|15.168711,120.588978|15.168684,120.589138|15.16857751,120.58933116|15.16851538,120.58937877|15.16747404,120.58973551|15.165263,120.590374|15.162861,120.591012|15.159392,120.591881|15.158077,120.592182|15.157543,120.592284|15.157031,120.592278|15.153023,120.591935|15.152765,120.591903|15.152592,120.591808|15.151123,120.591184|15.148034,120.589746|15.145045,120.588708|15.143464,120.58836|15.14186,120.58799|15.141278,120.587804|15.140487,120.587681|15.139904,120.587587|15.139166,120.587468|15.137981,120.587043|15.1368,120.586914|15.136365,120.587729|15.13695,120.588032|15.137851,120.588826|15.138027,120.588547|15.13914,120.58746|15.140249,120.587648|15.141303,120.587828|15.14186,120.58799|15.143469,120.588371|15.145045,120.588708|15.148034,120.589746|15.151123,120.591184|15.151754,120.592407|15.152818,120.592174|15.155949,120.592289|15.157543,120.592284|15.158077,120.592182|15.159392,120.591881|15.162861,120.591012|15.165263,120.590374|15.16747404,120.58973551|15.16834711,120.5895550|15.16845800,120.5894807|15.169726,120.588931|15.168872,120.585943|15.16840,120.58440|15.168256,120.58399|15.168036,120.583658|15.167989,120.583636|15.167868,120.583204|15.167787,120.582829|15.16834,120.58276|15.167787,120.582829|15.167868,120.583204|15.167989,120.583636|15.168036,120.583658|15.168334,120.584291|15.16838,120.5844'
    }, {
      _id: 'CHECK-POINT-HENSONVILLE-HOLY',
      name: 'CHECK-POINT-HENSONVILLE-HOLY',
@@ -49,7 +49,7 @@ angular.module('starter.services', [])
      type: '',
      route: 'Pampang-Holy is from Miranda Extension to Angeles City National Highschool',
      category: 'Angeles',
-     coordi: '15.139125,120.587155|15.139643,120.586007|15.140039,120.585146|15.140549,120.584221|15.141523,120.582515|15.142947,120.583121|15.143495,120.583566|15.144531,120.583599|15.14630,120.58128|15.14682,120.580621|15.149248,120.579028'
+     coordi: '15.13914,120.58746|15.139643,120.586007|15.140039,120.585146|15.140549,120.584221|15.141523,120.582515|15.142947,120.583121|15.143495,120.583566|15.144531,120.583599|15.14630,120.58128|15.14682,120.580621|15.149248,120.579028'
    }, {
      _id: 'PANDAN-PAMPANG',
      name: 'PANDAN-PAMPANG',
@@ -57,7 +57,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/pandan_pampang.jpg',
      route: 'PANDAN-PAMPANG is from Miranda St. to Angeles City Hall.',
      category: 'Angeles',
-     coordi:'15.137799,120.588961|15.138251,120.589309|15.13927,120.59037|15.139734,120.590832|15.140435,120.591892|15.13884,120.593694|15.141057,120.595272|15.142838,120.596806|15.144619,120.59804|15.14872,120.601398|15.15103,120.603383|15.15616,120.606098|15.15367,120.604794|15.153477,120.605265|15.153224,120.605907|15.153255,120.605942|15.152749,120.607052|15.151796,120.609702|15.15161,120.61017|15.152749,120.607052|15.153694,120.604812|15.156156,120.606076|15.158465,120.607331|15.16036,120.608457|15.160795,120.609262|15.161074,120.60953|15.162617,120.608243|15.162946,120.608382|15.162661,120.608248|15.163104,120.607698|15.163837,120.60805|15.164807121818038,120.6081626111435|15.164807121818038,120.6081626111435|15.16297,120.607594|15.162346,120.608481|15.161043,120.609294|15.160583,120.608921|15.159034,120.60761|15.156182,120.606124|15.15366,120.604734|15.152624,120.60423|15.15103,120.603383|15.14872,120.601398|15.144619,120.59804|15.142913,120.596736|15.140787,120.595111|15.13990,120.59450|15.13834,120.59335|15.138861,120.59363|15.137245,120.592482|15.136417,120.590765|15.137799,120.588961'
+     coordi:'15.137799,120.588961|15.138251,120.589309|15.13927,120.59037|15.139734,120.590832|15.140435,120.591892|15.13884,120.593694|15.141057,120.595272|15.142838,120.596806|15.144619,120.59804|15.14872,120.601398|15.15103,120.603383|15.15616,120.606098|15.15367,120.604794|15.153477,120.605265|15.153224,120.605907|15.153255,120.605942|15.152749,120.607052|15.151796,120.609702|15.15161,120.61017|15.152749,120.607052|15.153694,120.604812|15.156156,120.606076|15.158465,120.607331|15.16036,120.608457|15.160795,120.609262|15.161074,120.60953|15.162617,120.608243|15.162946,120.608382|15.162661,120.608248|15.163104,120.607698|15.163837,120.60805|15.16451,120.60811|15.16451,120.60811|15.16297,120.607594|15.162346,120.608481|15.161043,120.609294|15.160583,120.608921|15.159034,120.60761|15.156182,120.606124|15.15366,120.604734|15.152624,120.60423|15.15103,120.603383|15.14872,120.601398|15.144619,120.59804|15.142913,120.596736|15.140787,120.595111|15.13990,120.59450|15.13834,120.59335|15.138861,120.59363|15.137245,120.592482|15.136417,120.590765|15.137761,120.588912|15.137799,120.588961|15.138251,120.589309|15.13927,120.59037'
    }, {
      _id: 'SAPANG BATO-ANGELES',
      name: 'SAPANG BATO-ANGELES',
@@ -90,7 +90,7 @@ angular.module('starter.services', [])
      route: 'Villa-Pampang is from Essel Park to Holy Angel University.',
      category: 'Angeles',
      coordi:
-     '15.121995,120.600207|15.123002,120.599442|15.124017,120.598821|15.125762,120.598015|15.126088,120.597546|15.129851,120.595207|15.131456,120.593812|15.133331,120.591989|15.133561,120.591812|15.135089,120.592624|15.13594,120.591356|15.137623,120.589119|15.13786,120.58885|15.138799,120.587541|15.136961,120.586506|15.13622,120.58805|15.13567,120.58914|15.134822,120.590594|15.13478,120.59069|15.13417,120.59130|15.133092,120.592257|15.131528,120.593748|15.129685,120.595293|15.1281,120.596259|15.126267,120.597407|15.124931,120.598174|15.12493,120.59831|15.123859,120.59878|15.122834,120.599536|15.121995,120.600207'
+     '15.121995,120.600207|15.123002,120.599442|15.124017,120.598821|15.125762,120.598015|15.126088,120.597546|15.129851,120.595207|15.131456,120.593812|15.133331,120.591989|15.133561,120.591812|15.135089,120.592624|15.13594,120.591356|15.137623,120.589119|15.13786,120.58885|15.138799,120.587541|15.136961,120.586506|15.13622,120.58805|15.13567,120.58914|15.134822,120.590594|15.13483,120.59063|15.13417,120.59130|15.133092,120.592257|15.131528,120.593748|15.129685,120.595293|15.1281,120.596259|15.126267,120.597407|15.124931,120.598174|15.12493,120.59831|15.123859,120.59878|15.122834,120.599536|15.121995,120.600207'
    }, {
      _id:  'ROUTE 1',
      name: 'ROUTE 1',
@@ -154,8 +154,8 @@ angular.module('starter.services', [])
     _id: 'point05',
     text: 'Angeles City Hall',
     category: 'points',
-    lat: '15.164807121818038',
-    lng: '120.6081626111435',
+    lat: '15.16451',
+    lng: '120.60811',
     tags: 'PANDAN-PAMPANG'
   },{
     _id: 'point06',
@@ -259,8 +259,8 @@ angular.module('starter.services', [])
     _id: 'point19',
     text: 'Holy Rosary Parish Church',
     category: 'points',
-    lat: '15.134772',
-    lng: '120.590686',
+    lat: '15.13483',
+    lng: '120.59063',
     tags: 'CHECK-POINT-HOLY-HI-WAY,CHECK-POINT-HOLY'
   },{
     _id: 'point20',
@@ -468,7 +468,7 @@ angular.module('starter.services', [])
     }
   };
 }).factory('GoogleMaps', function($cordovaGeolocation, $ionicLoading,
-$rootScope, $cordovaNetwork, ConnectivityMonitor,$http,Jeeps,$timeout,$ionicPopup){
+$rootScope, $cordovaNetwork,$stateParams, ConnectivityMonitor,$http,Jeeps,$timeout,$ionicPopup){
 
   var API_KEY = 'AIzaSyD4zGo9cejtd83MbUFQL8YU71b8_A5XZpc';
   var coords;
@@ -554,12 +554,18 @@ var lat3Coords;
         mapTypeControl: false
 
       };
-      if (latlng2!==undefined) {
+      console.log(latlng2!==undefined&&ctr1!==undefined&&ctr2!==undefined);
+      if (latlng2!==undefined&&ctr1!==undefined&&ctr2!==undefined) {
+          console.log('map3');
+          map = new google.maps.Map(document.getElementById('map2'), mapOptions);
+
+      }
+      else if (ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined) {
           console.log('map2');
           map = new google.maps.Map(document.getElementById('map2'), mapOptions);
 
       }
-      else {
+      else if (latlng1!==undefined&&ctr1===undefined&&ctr2===undefined){
           console.log('map1');
           map = new google.maps.Map(document.getElementById('map1'), mapOptions);
 
@@ -607,18 +613,18 @@ var lat3Coords;
         strokeColor: color1,
       };
 
-        // Symbol that gets animated along the polyline
-        lineSymbol2 = {
-            path: google.maps.SymbolPath.CIRCLE,
-            scale: 5,
-            strokeColor: color2,
-        };
-        // Symbol that gets animated along the polyline
-        lineSymbol3 = {
-            path: google.maps.SymbolPath.CIRCLE,
-            scale: 5,
-            strokeColor: color3,
-        };
+      // Symbol that gets animated along the polyline
+      lineSymbol2 = {
+          path: google.maps.SymbolPath.CIRCLE,
+          scale: 5,
+          strokeColor: color2,
+      };
+      // Symbol that gets animated along the polyline
+      lineSymbol3 = {
+          path: google.maps.SymbolPath.CIRCLE,
+          scale: 5,
+          strokeColor: color3,
+      };
 
 
 
@@ -654,7 +660,7 @@ var lat3Coords;
 
 
         console.log(latlng2);
-        if (latlng2 !==undefined) {
+        if (latlng2!==undefined&&ctr1!==undefined&&ctr2!==undefined) {
 
             console.log('enter lantlang2');
           var a = getStartEnd(latlng1.coordi,'from');
@@ -673,17 +679,28 @@ var lat3Coords;
               var colorCode3b = new setColorCode(colorCodeDiv,map,color3,latlng3.name);
           }
 
-        console.log(start_new2);
+
           bendAndSnap(start_new1,'from');
+          console.log('bend1');
           if(start_new2!==undefined){
             bendAndSnap(start_new2,'to');
+            console.log('bend2');
           }
           if(start_new3!==undefined){
+            console.log('bend 3');
+            console.log(start_new3);
             bendAndSnap(start_new3,'mid');
           }
 
 
 
+        }
+        else if (ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined){
+            var colorCode1bif = new setColorCode(colorCodeDiv,map,color1,latlng1.name);
+            var ride = getStartEnd(latlng1.coordi,'from');
+            console.log('1ride if');
+            console.log(start_new1);
+            bendAndSnap(start_new1,'from');
         }
         else{
             var colorCode1a = new setColorCode(colorCodeDiv,map,color1,latlng1.name);
@@ -707,7 +724,12 @@ var lat3Coords;
 
           console.log('loadmarkers3');
         }
+        else if (ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined) {
+            console.log('1ride ctr');
+            loadMarkers(points1,null);
+        }
         else{
+            console.log('klk');
           console.log(points1);
           loadMarkers(points1,null);
         }
@@ -907,6 +929,9 @@ var lat3Coords;
     }
     else {
         console.log('end last index');
+        console.log(ctr);
+        console.log(endpoint);
+        console.log(ctr.lastIndexOf(endpoint));
         return ctr.lastIndexOf(endpoint);
     }
   }
@@ -1007,6 +1032,7 @@ var lat3Coords;
   }
 
   function bendAndSnap(latlngs,ctr) {
+      console.log(latlngs);
     coords = latlngs;
     $http({
       method: 'GET',
@@ -1035,12 +1061,13 @@ var lat3Coords;
 
       if(ctr=='mid'){
         console.log(response.data);
-        console.log('enter to');
+        console.log('enter mid');
         processSnapToRoadResponse(response.data,'mid');
         drawSnappedPolyline(snappedCoordinates3,'mid');
       }
 
       else {
+          console.log('default');
         processSnapToRoadResponse(response.data,null);
         drawSnappedPolyline(snappedCoordinates1,null);
       }
@@ -1257,63 +1284,50 @@ console.log(points2);
         console.log(response.data);
       });
     }
+    else if (ctr1==='1ride'&&ctr2===undefined) {
+          var markerPos = new google.maps.LatLng(points1.lat,points1.lng);
+          console.log(markerPos);
+          var marker = new google.maps.Marker({
+              map: map,
+              animation: google.maps.Animation.DROP,
+              position: markerPos
+          });
+
+          var infoWindowContent = "<h4>" + points1.text +"</h4>";
+          addInfoWindow(marker, infoWindowContent);
+          console.log(end1Ctr);
+          var string = end1Ctr;
+          var arr = string.split(",");
+          console.log(arr[0]);
+
+          var markerPos2 = new google.maps.LatLng(arr[0],arr[1]);
+          console.log(markerPos);
+          var marker2 = new google.maps.Marker({
+              map: map,
+              animation: google.maps.Animation.DROP,
+              position: markerPos2
+          });
+
+          infoWindowContent = "<h4>" + $stateParams.toId +"</h4>";
+          addInfoWindow(marker2, infoWindowContent);
+
+    }
     else{
       var records = points;
       console.log(records);
 
       for (var x = 0; x < records.length; x++) {
-        var markerPos = new google.maps.LatLng(records[x].lat,records[x].lng);
-        var marker = new google.maps.Marker({
+        var markerPos3 = new google.maps.LatLng(records[x].lat,records[x].lng);
+        var marker3 = new google.maps.Marker({
             map: map,
             animation: google.maps.Animation.DROP,
-            position: markerPos
+            position: markerPos3
         });
 
-        var infoWindowContent = "<h4>" + points[x].text +"</h4>";
-        addInfoWindow(marker, infoWindowContent);
+        var infoWindowContent3 = "<h4>" + points[x].text +"</h4>";
+        addInfoWindow(marker3, infoWindowContent3);
       }
 
-      // var markerCoords = records[0].lat +","+ records[0].lng;
-      // console.log(markerCoords);
-      //
-      // for (var i = 1; i < records.length; i++) {
-      //   record = records[i];
-      //   markerCoords += "|"+record.lat+","+record.lng;
-      // }
-      // console.log(markerCoords);
-      // $http({
-      //   method: 'GET',
-      //   url: 'https://roads.googleapis.com/v1/snapToRoads',
-      //   params: {
-      //     interpolate: false,
-      //     key: API_KEY,
-      //     path: markerCoords,
-      //   }
-      // })
-      // .then(function successCallback(response) {
-      //   console.log(response.data.snappedPoints.length);
-      //   for (var i = 0; i < response.data.snappedPoints.length; i++) {
-      //       var markerPos = new google.maps.LatLng(response.data.snappedPoints[i].location.latitude, response.data.snappedPoints[i].location.longitude);
-      //
-      //       var marker = new google.maps.Marker({
-      //           map: map,
-      //           animation: google.maps.Animation.DROP,
-      //           position: markerPos
-      //       });
-      //
-      //       var infoWindowContent = "<h4>" + points[i].text +" "+ response.data.snappedPoints[i].location.latitude+","+ response.data.snappedPoints[i].location.longitude+ "</h4>";
-      //       addInfoWindow(marker, infoWindowContent);
-      //
-      //
-      //
-      //
-      //   }
-      //
-      //
-      // },
-      // function errorCallback(response) {
-      //   console.log(response.data);
-      // });
     }
 
 
@@ -1324,15 +1338,12 @@ console.log(points2);
 
   //display info about the markers
   function addInfoWindow(marker, message) {
-
       var infoWindow = new google.maps.InfoWindow({
           content: message
       });
-
       google.maps.event.addListener(marker, 'click', function () {
           infoWindow.open(map, marker);
       });
-
   }
 
   //Animate an icon along a polyline
@@ -1455,19 +1466,26 @@ console.log(points2);
   }
 
   return {
-    init: function(options,linectr1,linectr2){
+    init: function(options){
         console.log(options);
+        console.log(points2);
 
-        ctr1=linectr1;
-        ctr2=linectr2;
+        ctr1=options.ctr1;
+        ctr2=options.ctr2;
+
+        console.log(ctr2);
 
 
         latlng1 = options.jeep_1;
         points1 = options.marker_1;
         console.log(options.jeep_2!==undefined);
         console.log(options.jeep_2);
+        if(ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined){
+            console.log(options.end1);
+            end1Ctr = options.end1;
+        }
 
-        if (options.jeep_2!==undefined) {
+        else if (options.jeep_2!==undefined) {
             console.log('not undefined');
             latlng2 = options.jeep_2;
             console.log(latlng2);
