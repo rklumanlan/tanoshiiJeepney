@@ -9,7 +9,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/sm_c_point_holy.jpg',
      route: 'Check-Point-Holy route is from Maingate to Holy Angel University.',
      category: 'Angeles',
-     coordi: '15.16840,120.58442|15.169379,120.587649|15.168704,120.588164|15.168541,120.588467|15.168711,120.588978|15.168684,120.589138|15.16857751,120.58933116|15.16851538,120.58937877|15.16747404,120.58973551|15.165263,120.590374|15.162861,120.591012|15.159392,120.591881|15.158077,120.592182|15.157543,120.592284|15.157031,120.592278|15.153023,120.591935|15.152765,120.591903|15.152592,120.591808|15.151123,120.591184|15.148034,120.589746|15.145045,120.588708|15.143464,120.58836|15.14186,120.58799|15.141278,120.587804|15.140487,120.587681|15.139904,120.587587|15.139166,120.587468|15.137981,120.587043|15.1368,120.586914|15.136365,120.587729|15.13695,120.588032|15.137851,120.588826|15.138027,120.588547|15.13914,120.58746|15.140249,120.587648|15.141303,120.587828|15.14186,120.58799|15.143469,120.588371|15.145045,120.588708|15.148034,120.589746|15.151123,120.591184|15.151754,120.592407|15.152818,120.592174|15.155949,120.592289|15.157543,120.592284|15.158077,120.592182|15.159392,120.591881|15.162861,120.591012|15.165263,120.590374|15.16747404,120.58973551|15.16834711,120.5895550|15.16845800,120.5894807|15.169726,120.588931|15.168872,120.585943|15.16840,120.58440|15.168256,120.58399|15.168036,120.583658|15.167989,120.583636|15.167868,120.583204|15.167787,120.582829|15.16834,120.58276|15.167787,120.582829|15.167868,120.583204|15.167989,120.583636|15.168036,120.583658|15.168334,120.584291|15.16838,120.5844'
+     coordi: '15.16840,120.58442|15.169333,120.58774|15.168944,120.588046|15.168541,120.588432|15.168701,120.588963|15.16857751,120.58933116|15.16851538,120.58937877|15.16747404,120.58973551|15.165263,120.590374|15.162861,120.591012|15.16253,120.59107|15.159392,120.591881|15.158077,120.592182|15.157543,120.592284|15.157031,120.592278|15.153023,120.591935|15.152765,120.591903|15.152592,120.591808|15.151123,120.591184|15.148034,120.589746|15.145045,120.588708|15.141278,120.587804|15.14131,120.58783|15.139068,120.587429|15.137981,120.587043|15.1368,120.586914|15.136365,120.587729|15.137851,120.588826|15.13914,120.58746|15.13987,120.58759|15.14131,120.58783|15.14186,120.58799|15.14347,120.58837|15.14504,120.58874|15.14803,120.58976|15.15120,120.59121|15.150943,120.591812|15.151779,120.592452|15.15283,120.592221|15.15293,120.59217|15.15520,120.59221|15.15703,120.59229|15.15808,120.59220|15.15940,120.59191|15.16253,120.59107|15.16286,120.59099|15.16526,120.59038|15.16787,120.58971|15.169597,120.589351|15.169717,120.588609|15.16931,120.58737|15.16888,120.58595|15.16840,120.58442|15.168256,120.58399|15.168036,120.583658|15.167989,120.583636|15.167868,120.583204|15.167787,120.582829|15.16834,120.58275|15.169242,120.582638|15.16834,120.58275|15.167787,120.582829|15.167868,120.583204|15.167989,120.583636|15.168036,120.583658|15.168256,120.58399|15.16840,120.58440'
    }, {
      _id: 'CHECK-POINT-HENSONVILLE-HOLY',
      name: 'CHECK-POINT-HENSONVILLE-HOLY',
@@ -17,7 +17,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/c_point hensonville_holy.jpg',
      route: 'Check-Point-Hensonville-Holy route is from Narciso St. to Holy Angel University or vice-versa.',
      category: 'Angeles',
-     coordi: '15.166388,120.582832|15.166119,120.58128|15.165664,120.580739|15.165098,120.580841|15.164021,120.581029|15.163109,120.581104|15.162643,120.58052|15.161887,120.580906|15.160728,120.58229|15.15992,120.582182|15.1589,120.581485|15.157491,120.582912|15.155721,120.583309|15.153194,120.58333|15.149839,120.584264|15.148523,120.584983|15.146742,120.586388|15.145893,120.587171|15.144992,120.58863|15.142299,120.588062|15.139627,120.58745|15.138488,120.5873|15.136738,120.586989|15.137038,120.588148|15.137851,120.588826|15.138136,120.588427|15.139627,120.58745|15.142299,120.588062|15.144992,120.58863|15.145893,120.587171|15.146742,120.586388|15.148523,120.584983|15.149839,120.584264|15.153194,120.58333|15.153384717302727,120.58322693253672|15.155721,120.583309|15.157491,120.582912|15.1589,120.581485|15.15992,120.582182|15.161354,120.581946|15.161478,120.582343|15.161872,120.582901|15.162317,120.583953|15.16376,120.583566|15.1653,120.583155|15.166388,120.582832'
+     coordi: '15.166388,120.582832|15.166119,120.58128|15.165664,120.580739|15.165098,120.580841|15.164021,120.581029|15.163109,120.581104|15.162643,120.58052|15.161887,120.580906|15.160728,120.58229|15.15992,120.582182|15.1589,120.581485|15.157491,120.582912|15.155721,120.583309|15.153384717302727,120.58322693253672|15.153194,120.58333|15.149839,120.584264|15.148523,120.584983|15.146742,120.586388|15.145893,120.587171|15.144992,120.58863|15.142299,120.588062|15.14131,120.58783|15.139627,120.58745|15.138488,120.5873|15.136738,120.586989|15.137038,120.588148|15.137851,120.588826|15.138136,120.588427|15.139627,120.58745|15.14131,120.58783|15.142299,120.588062|15.14347,120.58837|15.144992,120.58863|15.145893,120.587171|15.146742,120.586388|15.148523,120.584983|15.149839,120.584264|15.153194,120.58333|15.153384717302727,120.58322693253672|15.155721,120.583309|15.157491,120.582912|15.1589,120.581485|15.15992,120.582182|15.161354,120.581946|15.161478,120.582343|15.161872,120.582901|15.162317,120.583953|15.16376,120.583566|15.1653,120.583155|15.166388,120.582832'
    }, {
      _id:'CHECK-POINT-HOLY-HI-WAY',
      name: 'CHECK-POINT-HOLY-HI-WAY',
@@ -25,7 +25,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/sm_c_point_holy_hi_way.jpg',
      route: 'Check-Point-Holy-Hi-Way route is from Maingate to Holy Angel University.',
      category: 'Angeles',
-     coordi: '15.16840,120.58442|15.169333,120.58774|15.168944,120.588046|15.168541,120.588432|15.168701,120.588963|15.16857751,120.58933116|15.16851538,120.58937877|15.16747404,120.58973551|15.165263,120.590374|15.162861,120.591012|15.159392,120.591881|15.158077,120.592182|15.157543,120.592284|15.157031,120.592278|15.153023,120.591935|15.152765,120.591903|15.152592,120.591808|15.151123,120.591184|15.148034,120.589746|15.145045,120.588708|15.141278,120.587804|15.139068,120.587429|15.137981,120.587043|15.1368,120.586914|15.136365,120.587729|15.134853,120.590529|15.133569,120.591817|15.134931,120.592788|15.135883,120.591431|15.137323,120.592541|15.138711,120.593582|15.140596,120.594971|15.140808,120.5951|15.142963,120.596637|15.14327,120.59644|15.14437,120.59588|15.14527,120.59539|15.14544,120.59530|15.14640,120.59478|15.14640,120.59478|15.14751,120.59419|15.147954,120.59393|15.149388,120.593201|15.151775,120.592386|15.15293,120.59217|15.153039,120.592021|15.15577,120.592257|15.157699,120.592343|15.15828,120.59222|15.15900,120.59201|15.160023,120.591758|15.16242,120.59110|15.16253,120.59107|15.164378,120.590583|15.165268,120.590358|15.166584,120.589998|15.16749,120.58981|15.169115,120.589424|15.169726,120.588931|15.168872,120.585943|15.16840,120.58440|15.168256,120.58399|15.168036,120.583658|15.167989,120.583636|15.167868,120.583204|15.167787,120.582829|15.16834,120.58276|15.167787,120.582829|15.167868,120.583204|15.167989,120.583636|15.168036,120.583658|15.168334,120.584291|15.16838,120.5844'
+     coordi: '15.16840,120.58442|15.169333,120.58774|15.168944,120.588046|15.168541,120.588432|15.168701,120.588963|15.16857751,120.58933116|15.16851538,120.58937877|15.16747404,120.58973551|15.165263,120.590374|15.162861,120.591012|15.159392,120.591881|15.158077,120.592182|15.157543,120.592284|15.157031,120.592278|15.153023,120.591935|15.152765,120.591903|15.152592,120.591808|15.151123,120.591184|15.148034,120.589746|15.145045,120.588708|15.141278,120.587804|15.139068,120.587429|15.137981,120.587043|15.1368,120.586914|15.136365,120.587729|15.134853,120.590529|15.133569,120.591817|15.134931,120.592788|15.135883,120.591431|15.137323,120.592541|15.138711,120.593582|15.140596,120.594971|15.140808,120.5951|15.142963,120.596637|15.14327,120.59644|15.14437,120.59588|15.14527,120.59539|15.14544,120.59530|15.14640,120.59478|15.14640,120.59478|15.14751,120.59419|15.147954,120.59393|15.149388,120.593201|15.151775,120.592386|15.15293,120.59217|15.15577,120.592257|15.157699,120.592343|15.15828,120.59222|15.15900,120.59201|15.160023,120.591758|15.16242,120.59110|15.16253,120.59107|15.164378,120.590583|15.165268,120.590358|15.166584,120.589998|15.16749,120.58981|15.169115,120.589424|15.169726,120.588931|15.168872,120.585943|15.16840,120.58442|15.168256,120.58399|15.168036,120.583658|15.167989,120.583636|15.167868,120.583204|15.167787,120.582829|15.16834,120.58275|15.169242,120.582638|15.16834,120.58275|15.167787,120.582829|15.167868,120.583204|15.167989,120.583636|15.168036,120.583658|15.168256,120.58399|15.16840,120.58440'
    }, {
      _id: 'MAINGATE-FRIENDSHIP',
      name: 'MAINGATE-FRIENDSHIP',
@@ -41,7 +41,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/marisol_pampang.jpg',
      route: 'Marisol-Pampang is from the Jake Gonzales Avenue.',
      category: 'Angeles',
-     coordi:'15.152585,120.591815|15.152747,120.591965|15.15269,120.592069|15.151739,120.592383|15.148596,120.593619|15.143304,120.59643|15.142144,120.596151|15.140787,120.5951|15.138851,120.593662|15.137214,120.592418|15.134822,120.59061|15.135562,120.58933|15.136287,120.587955|15.136386,120.587718|15.136867,120.587995|15.137851,120.588826|15.138783,120.587504|15.139964,120.5884|15.140601,120.588781|15.14124,120.58907|15.14254,120.58971|15.144795,120.59083|15.146908,120.590208|15.148617,120.593598|15.143304,120.59643'
+     coordi:'15.152585,120.591815|15.152747,120.591965|15.15269,120.592069|15.151739,120.592383|15.148596,120.593619|15.143088,120.596546|15.142144,120.596151|15.140787,120.5951|15.138851,120.593662|15.137214,120.592418|15.134822,120.59061|15.135562,120.58933|15.136287,120.587955|15.136386,120.587718|15.136867,120.587995|15.137851,120.588826|15.138783,120.587504|15.139964,120.5884|15.140601,120.588781|15.14124,120.58907|15.14254,120.58971|15.144795,120.59083|15.146908,120.590208|15.148617,120.593598|15.1466,120.594749|15.14544,120.59530|15.14527,120.59539|15.143088,120.596546'
    }, {
      _id: 'PAMPANG-HOLY',
      name: 'PAMPANG-HOLY',
@@ -57,7 +57,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/pandan_pampang.jpg',
      route: 'PANDAN-PAMPANG is from Miranda St. to Angeles City Hall.',
      category: 'Angeles',
-     coordi:'15.137799,120.588961|15.138251,120.589309|15.13927,120.59037|15.139734,120.590832|15.140435,120.591892|15.13884,120.593694|15.141057,120.595272|15.142838,120.596806|15.144619,120.59804|15.14872,120.601398|15.15103,120.603383|15.15616,120.606098|15.15367,120.604794|15.153477,120.605265|15.153224,120.605907|15.153255,120.605942|15.152749,120.607052|15.151796,120.609702|15.15161,120.61017|15.152749,120.607052|15.153694,120.604812|15.156156,120.606076|15.158465,120.607331|15.16036,120.608457|15.160795,120.609262|15.161074,120.60953|15.162617,120.608243|15.162946,120.608382|15.162661,120.608248|15.163104,120.607698|15.163837,120.60805|15.16451,120.60811|15.16451,120.60811|15.16297,120.607594|15.162346,120.608481|15.161043,120.609294|15.160583,120.608921|15.159034,120.60761|15.156182,120.606124|15.15366,120.604734|15.152624,120.60423|15.15103,120.603383|15.14872,120.601398|15.144619,120.59804|15.142913,120.596736|15.140787,120.595111|15.13990,120.59450|15.13834,120.59335|15.138861,120.59363|15.137245,120.592482|15.136417,120.590765|15.137761,120.588912|15.137799,120.588961|15.138251,120.589309|15.13927,120.59037'
+     coordi:'15.13784,120.58891|15.138251,120.589309|15.13927,120.59037|15.139734,120.590832|15.140435,120.591892|15.13884,120.593694|15.141057,120.595272|15.142838,120.596806|15.144619,120.59804|15.14872,120.601398|15.15103,120.603383|15.15372,120.60482|15.153224,120.605907|15.153255,120.605942|15.152749,120.607052|15.15239,120.60829|15.15181,120.60971|15.15181,120.60971|15.15239,120.60829|15.152749,120.607052|15.153255,120.605942|15.153224,120.605907|15.15372,120.60482|15.156156,120.606076|15.158465,120.607331|15.16036,120.608457|15.160795,120.609262|15.161074,120.60953|15.162617,120.608243|15.162946,120.608382|15.163104,120.607698|15.163837,120.60805|15.16451,120.60811|15.16451,120.60811|15.16297,120.607594|15.162346,120.608481|15.161043,120.609294|15.160583,120.608921|15.159034,120.60761|15.156182,120.606124|15.153783,120.604851|15.15366,120.604734|15.152624,120.60423|15.15103,120.603383|15.14872,120.601398|15.147082,120.600081|15.144619,120.59804|15.142913,120.596736|15.140787,120.595111|15.13990,120.59450|15.13834,120.59335|15.137245,120.592482|15.136417,120.590765|15.137761,120.588912|15.13784,120.58891|15.138251,120.589309|15.13927,120.59037'
    }, {
      _id: 'SAPANG BATO-ANGELES',
      name: 'SAPANG BATO-ANGELES',
@@ -65,7 +65,7 @@ angular.module('starter.services', [])
      type: 'img/jeeps/sapang_bato_angeles.jpg',
      route: 'Sapangbato-Angeles is from Brgy. Lourdes North West to Sapang Bato.',
      category: 'Angeles',
-     coordi: '15.141904,120.58781|15.14186,120.58799|15.142299,120.58805|15.144686,120.588614|15.145194,120.588099|15.146245,120.586796|15.147074,120.586088|15.149269,120.584575|15.149383,120.582526|15.149362,120.579849|15.14917,120.57793|15.148705,120.576078|15.148178,120.574338|15.148009,120.573934|15.147634,120.573143|15.147158,120.571922|15.146454,120.570096|15.145748,120.567935|15.14562,120.567456|15.14539,120.56643|15.14505,120.56465|15.144686,120.561352|15.14448,120.55936|15.14776,120.559465|15.15064,120.55936|15.15087,120.55936|15.153712,120.560274|15.15479,120.560391|15.155379,120.56034|15.157124,120.560007|15.15803,120.55970|15.158149,120.559394|15.159076,120.556916|15.160122,120.556219|15.16304,120.55475|15.162659,120.55373|15.16258,120.55349|15.162597,120.551959|15.160458,120.551053|15.161157,120.549245|15.162462,120.54821|15.165284,120.546273|15.170974,120.538784|15.170943,120.536011|15.17078,120.53471|15.170094,120.531982|15.170575,120.529928|15.170399,120.527599|15.172589,120.521994|15.17253,120.51979'
+     coordi: '15.14186,120.58799|15.14502,120.58873|15.146245,120.586796|15.147074,120.586088|15.14988,120.58427|15.149383,120.582526|15.149362,120.579849|15.14917,120.57793|15.148705,120.576078|15.148009,120.573934|15.147634,120.573143|15.146454,120.570096|15.145748,120.567935|15.14539,120.56643|15.14505,120.56465|15.144686,120.561352|15.14448,120.55936|15.14776,120.559465|15.15064,120.55936|15.15087,120.55936|15.153712,120.560274|15.155379,120.56034|15.157124,120.560007|15.15803,120.55970|15.158149,120.559394|15.159076,120.556916|15.160122,120.556219|15.16304,120.55475|15.162659,120.55373|15.16258,120.55349|15.162597,120.551959|15.160458,120.551053|15.161157,120.549245|15.164119,120.5478191|15.165284,120.546273|15.170974,120.538784|15.170943,120.536011|15.17078,120.53471|15.170094,120.531982|15.170575,120.529928|15.170399,120.527599|15.171697,120.525495|15.17234,120.523787|15.172589,120.521994|15.17253,120.51979|15.172244,120.517154|15.17114,120.51630|15.17028,120.51436|15.16966,120.51317|15.16966,120.51317|15.17028,120.51436|15.17114,120.51630|15.172244,120.517154|15.17253,120.51979|15.172589,120.521994|15.17234,120.523787|15.171697,120.525495|15.170399,120.527599|15.170575,120.529928|15.170094,120.531982|15.17078,120.53471|15.170943,120.536011|15.170974,120.538784|15.165284,120.546273|15.164119,120.5478191|15.161157,120.549245|15.160458,120.551053|15.162597,120.551959|15.16258,120.55349|15.162659,120.55373|15.16304,120.55475|15.160122,120.556219|15.159076,120.556916|15.158149,120.559394|15.15803,120.55970|15.157124,120.560007|15.155379,120.56034|15.153712,120.560274|15.15087,120.55936|15.15064,120.55936|15.14776,120.559465|15.14448,120.55936|15.144686,120.561352|15.14505,120.56465|15.14539,120.56643|15.145748,120.567935|15.146454,120.570096|15.147634,120.573143|15.148009,120.573934|15.148705,120.576078|15.14917,120.57793|15.149362,120.579849|15.149383,120.582526|15.14988,120.58427|15.147074,120.586088|15.146245,120.586796|15.14502,120.58873|15.14186,120.58799'
    }, {
      _id: 'SUNSET-NEPO',
      name: 'SUNSET-NEPO',
@@ -140,8 +140,8 @@ angular.module('starter.services', [])
     _id: 'point03',
     text: 'Citi Center',
     category: 'points',
-    lat: '15.15161',
-    lng: '120.61017',
+    lat: '15.15181',
+    lng: '120.60971',
     tags: 'PANDAN-PAMPANG'
   },{
     _id: 'point04',
@@ -162,14 +162,14 @@ angular.module('starter.services', [])
     text: 'SM City Clark',
     category: 'points',
     lat:'15.16834',
-    lng:'120.58276',
+    lng:'120.58275',
     tags: 'CHECK-POINT-HOLY-HI-WAY,CHECK-POINT-HOLY'
   },{
     _id: 'point40',
     text: 'Main Gate Terminal',
     category: 'points',
     lat:'15.16840',
-    lng:'120.58440',
+    lng:'120.58442',
     tags: 'CHECK-POINT-HOLY-HI-WAY,CHECK-POINT-HOLY'
   },{
     _id: 'point07',
@@ -369,8 +369,8 @@ angular.module('starter.services', [])
     _id: 'point35',
     text: 'Sapang Bato',
     category: 'points',
-    lat:'15.17253',
-    lng:'120.51979',
+    lat:'15.16966',
+    lng:'120.51317',
     tags:'SAPANG BATO-ANGELES'
   },{
     _id: 'point36',
@@ -532,20 +532,33 @@ $rootScope, $cordovaNetwork,$stateParams, ConnectivityMonitor,$http,Jeeps,$timeo
    var snappedPolyline3;
    var ctr1;
    var ctr2;
+   var ctr3;
 
 var lat3Coords;
 
   function initMap(){
 
       $rootScope.$on( "$ionicView.beforeLeave", function() {
-          console.log('enter rootScope');
-          markers = [];
-         end1Ctr=undefined;
-         start_new1=undefined;
+        console.log('enter rootScope');
+        points1=undefined;
+        points2=undefined;
+        points3=undefined;
+        color1 =null;
+        color2=null;
+        color3=null;
+        latlng1=undefined;
+        latlng2=undefined;
+        latlng3=undefined;
+        markers = [];
+        end1Ctr=undefined;
+        start_new1=undefined;
         end2Ctr=undefined;
         start_new2=undefined;
-       end3Ctr=undefined;
-       start_new3=undefined;
+        end3Ctr=undefined;
+        start_new3=undefined;
+        ctr1=undefined;
+        ctr2=undefined;
+        ctr3=undefined;
       });
       var mapOptions = {
         center: {'lat': 15.16829179, 'lng': 151.196532},
@@ -560,7 +573,7 @@ var lat3Coords;
           map = new google.maps.Map(document.getElementById('map2'), mapOptions);
 
       }
-      else if (ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined) {
+      else if (ctr1==='1ride'&&(ctr2==='forth'||ctr2==='back')&&latlng2===undefined) {
           console.log('map2');
           map = new google.maps.Map(document.getElementById('map2'), mapOptions);
 
@@ -583,6 +596,7 @@ var lat3Coords;
 
 
       color1 = setColor(latlng1.color);
+      console.log(latlng2);
       if(latlng2!==undefined){
         color2 = setColor(latlng2.color);
       }
@@ -663,10 +677,11 @@ var lat3Coords;
         if (latlng2!==undefined&&ctr1!==undefined&&ctr2!==undefined) {
 
             console.log('enter lantlang2');
-          var a = getStartEnd(latlng1.coordi,'from');
-          var b = getStartEnd(latlng2.coordi,'to');
+          var a = getStartEnd(latlng1.coordi,'jeep1');
+          var b = getStartEnd(latlng2.coordi,'jeep2');
           if (latlng3 !==undefined){
-              var c = getStartEnd(latlng3.coordi,'mid');
+            console.log('jeep3');
+              var c = getStartEnd(latlng3.coordi,'jeep3');
           }
 
 
@@ -678,33 +693,28 @@ var lat3Coords;
           if(latlng3 !==undefined){
               var colorCode3b = new setColorCode(colorCodeDiv,map,color3,latlng3.name);
           }
-
-
-          bendAndSnap(start_new1,'from');
+          bendAndSnap(start_new1,'jeep1');
           console.log('bend1');
           if(start_new2!==undefined){
-            bendAndSnap(start_new2,'to');
+            bendAndSnap(start_new2,'jeep2');
             console.log('bend2');
           }
           if(start_new3!==undefined){
             console.log('bend 3');
             console.log(start_new3);
-            bendAndSnap(start_new3,'mid');
+            bendAndSnap(start_new3,'jeep3');
           }
-
-
-
         }
-        else if (ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined){
+        else if (ctr1==='1ride'&&(ctr2==='forth'||ctr2==='back')&&latlng2===undefined){
             var colorCode1bif = new setColorCode(colorCodeDiv,map,color1,latlng1.name);
-            var ride = getStartEnd(latlng1.coordi,'from');
+            var ride = getStartEnd(latlng1.coordi,'jeep1');
             console.log('1ride if');
             console.log(start_new1);
-            bendAndSnap(start_new1,'from');
+            bendAndSnap(start_new1,'jeep1');
         }
         else{
             var colorCode1a = new setColorCode(colorCodeDiv,map,color1,latlng1.name);
-            bendAndSnap(latlng1.coordi,'from');
+            bendAndSnap(latlng1.coordi,'jeep1');
 
         }
 
@@ -724,7 +734,7 @@ var lat3Coords;
 
           console.log('loadmarkers3');
         }
-        else if (ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined) {
+        else if (ctr1==='1ride'&&(ctr2==='forth'||ctr2==='back')&&latlng2===undefined) {
             console.log('1ride ctr');
             loadMarkers(points1,null);
         }
@@ -741,39 +751,56 @@ var lat3Coords;
 
   function getStartEnd(startEnd,ctr){
       console.log(points1);
-    if(ctr === 'from'){
+    if(ctr === 'jeep1'){
       console.log('enter from');
       var string1 = startEnd;
       lat_array_coords1 = string1.split("|");
       console.log(end1Ctr);
+      console.log();
+      console.log(lat_array_coords1);
+      console.log($stateParams.toId);
 
-      var startCtr1 = getStartPoints( points1.lat+","+points1.lng,lat_array_coords1);
-      var endCtr1 = getEndPoints(end1Ctr,lat_array_coords1);
+      var startCtr1 = getStartPoints( points1.lat+","+points1.lng,lat_array_coords1,ctr);
+      var endCtr1 = getEndPoints(end1Ctr,lat_array_coords1,ctr);
 
       console.log(points1.lat+","+points1.lng);
       console.log(lat_array_coords1);
 
-
+      console.log(startCtr1);
       console.log(endCtr1);
 
-      console.log(startCtr1);
+
       start_new1 = lat_array_coords1[startCtr1];
       console.log(start_new1);
       console.log(ctr1);
       console.log(startCtr1>endCtr1);
       if (startCtr1>endCtr1) {
-          for (var j = startCtr1-1; j >= endCtr1; j--) {
-              start_new1 += "|"+lat_array_coords1[j];
-          }
+        console.log('1a');
+        console.log((ctr1==='1ride'&&ctr2==='forth'));
+
+        for (var j = startCtr1-1; j >= endCtr1; j--) {
+            start_new1 += "|"+lat_array_coords1[j];
+        }
+        if (ctr1==='1ride'&&ctr2==='back'&&(latlng1.name==='CHECK-POINT-HENSONVILLE-HOLY'||latlng1.name==='MARISOL-PAMPANG'||latlng1.name==='CHECK-POINT-HOLY')) {
+          start_new1 = start_new1.split("|").reverse().join("|");
+        }
+
       }
       else {
+        console.log('2a');
+        console.log((latlng1.name!=='MARISOL-PAMPANG'||latlng1.name!=='PANDAN-PAMPANG'));
           for (var i = startCtr1+1; i <= endCtr1; i++) {
               start_new1 += "|"+lat_array_coords1[i];
           }
+          if (ctr1==='1ride'&&ctr2==='back'&&(latlng1.name!=='MARISOL-PAMPANG'&&latlng1.name!=='PANDAN-PAMPANG')) {
+            start_new1 = start_new1.split("|").reverse().join("|");
+          }
+
+
       }
       console.log(start_new1);
     }
-    if(ctr === 'to'){
+    if(ctr === 'jeep2'){
       console.log('enter from');
       console.log(points2);
       var string2 = startEnd;
@@ -781,94 +808,40 @@ var lat3Coords;
       console.log(end2Ctr);
       console.log(points2.lat+","+points2.lng);
       console.log(lat_array_coords2);
-      var startCtr2 = getStartPoints(points2.lat+","+points2.lng,lat_array_coords2);
-      var endCtr2 = getEndPoints(end2Ctr,lat_array_coords2);
+      var startCtr2 = getStartPoints(points2.lat+","+points2.lng,lat_array_coords2,ctr);
+      var endCtr2 = getEndPoints(end2Ctr,lat_array_coords2,ctr);
 
-      console.log(endCtr2);
-
+      console.log('jepp2');
       console.log(startCtr2);
+      console.log(endCtr2);
       start_new2 = lat_array_coords2[startCtr2];
       console.log(start_new2);
       console.log(ctr2);
     //   if (ctr2=='forth') {
     //       console.log('enter ctr2');
+
         if (startCtr2>endCtr2) {
+          console.log('123');
             for (var l = startCtr2-1; l >= endCtr2; l--) {
                 start_new2 += "|"+lat_array_coords2[l];
             }
             start_new2 = start_new2.split("|").reverse().join("|");
         }
         else {
+          console.log('456');
             for (var k = startCtr2+1; k <= endCtr2; k++) {
                 start_new2 += "|"+lat_array_coords2[k];
+                console.log(start_new2);
             }
+
         }
+        console.log(start_new2);
 
 
 
-      console.log(start_new2);
 
-    //   if (startCtr2<endCtr2 && start_new2!==undefined) {
-    //     console.log('enter if1');
-    //     for (var k = startCtr2+1; k <= endCtr2; k++) {
-    //         start_new2 += "|"+lat_array_coords2[k];
-    //     }
-    //     console.log(start_new2);
-    //   }
-    //   else if (startCtr2>endCtr2 && start_new2!==undefined){
-    //     console.log('enter if2');
-    //     for (var l = startCtr2-1; l >= endCtr2; l--) {
-    //         start_new2 += "|"+lat_array_coords2[l];
-    //     }
-    //     start_new2 = start_new2.split("|").reverse().join("|");
-      //
-    //     console.log(start_new2);
-    //   }
-
-
-      // console.log('enter to');
-      // var string2 = startEnd;
-      // lat_array_coords2 = string2.split("|");
-      //
-      // console.log(lat_array_coords2);
-      // console.log(end2Ctr);
-      // var startCtr2 = getStartPoints( end2Ctr,lat_array_coords2);
-      // console.log(startCtr2);
-      // console.log(points2[0].lat+","+points2[0].lng);
-      // console.log(lat_array_coords2);
-      // var endCtr2 = getEndPoints(points2[0].lat+","+points2[0].lng,lat_array_coords2);
-      // console.log(lat_array_coords2);
-      // console.log(endCtr2);
-      //
-      // start_new2 = lat_array_coords2[startCtr2];
-      // console.log(endCtr2);
-      //
-      // console.log(startCtr2);
-      // console.log(endCtr2===undefined);
-      // if (endCtr2===-1) {
-      //   startCtr2 = getStartPoints( points2[0].lat+","+points2[0].lng,lat_array_coords2);
-      //
-      //
-      //   endCtr2 = getEndPoints(end2Ctr,lat_array_coords2);
-      //   console.log(startCtr2);
-      //
-      //   console.log(endCtr2);
-      //   console.log(lat_array_coords2);
-      //   for (var l = startCtr2+1; l<= endCtr2; l++) {
-      //       start_new2 += "|"+lat_array_coords2[l];
-      //   }
-      //   console.log('undefined');
-      // }
-      //   if (startCtr2<endCtr2) {
-      //     console.log('enter if 2');
-      //     for (var k = startCtr2+1; k <= endCtr2; k++) {
-      //         start_new2 += "|"+lat_array_coords2[k];
-      //     }
-      //   }
-      //
-      //   console.log(start_new2);
       }
-      if(ctr === 'mid'){
+      if(ctr === 'jeep3'){
         console.log('enter mid3');
         console.log(points3);
         var string3 = startEnd;
@@ -876,12 +849,12 @@ var lat3Coords;
         console.log(end3Ctr);
         console.log(points3.lat+","+points3.lng);
         console.log(lat_array_coords3);
-        var startCtr3 = getStartPoints(points3.lat+","+points3.lng,lat_array_coords3);
-        var endCtr3 = getEndPoints(end3Ctr,lat_array_coords3);
-
+        var startCtr3 = getStartPoints(points3.lat+","+points3.lng,lat_array_coords3,ctr);
+        var endCtr3 = getEndPoints(end3Ctr,lat_array_coords3,ctr);
+        console.log(startCtr3);
         console.log(endCtr3);
 
-        console.log(startCtr3);
+
         start_new3 = lat_array_coords3[startCtr3];
         console.log(start_new3);
         if (startCtr3<endCtr3 && start_new3!==undefined) {
@@ -889,6 +862,7 @@ var lat3Coords;
           for (var m = startCtr3+1; m <= endCtr3; m++) {
               start_new3 += "|"+lat_array_coords3[m];
           }
+          // start_new3 = start_new3.split("|").reverse().join("|");
           console.log(start_new3);
         }
         else if (startCtr3>endCtr3 && start_new3!==undefined){
@@ -898,6 +872,7 @@ var lat3Coords;
           }
           start_new3 = start_new3.split("|").reverse().join("|");
 
+
           console.log(start_new3);
         }
     }
@@ -906,34 +881,92 @@ var lat3Coords;
   }
 
   //match the selected start point to the start point array
-  function getStartPoints(startpoint,ctr){
-    if (ctr1=='forth') {
+  function getStartPoints(startpoint,ctr,jeepNo){
+    console.log(ctr1);
+    console.log(ctr2);
+    console.log(jeepNo);
+    console.log((ctr2==='forth'||ctr2==='back'));
+    // if (latlng3===undefined) {
+      console.log('undefined');
+      console.log(ctr1);
+      console.log(ctr2);
+      if ((ctr1=='1ride'&&ctr2=='forth'&&jeepNo==='jeep1')||(ctr1=='forth'&&jeepNo==='jeep1')||(ctr2=='forth'&&jeepNo==='jeep2')||(ctr3=='forth'&&jeepNo==='jeep3')) {
         console.log('start index of');
+        console.log(ctr.indexOf(startpoint));
         return ctr.indexOf(startpoint);
-    }
-    else {
-        console.log('start lastindex of');
-        return ctr.lastIndexOf(startpoint);
-    }
+      }
+      else if((ctr1=='1ride'&&ctr2=='back'&&jeepNo==='jeep1')||(ctr1=='back'&&jeepNo==='jeep1')||(ctr2=='back'&&jeepNo==='jeep2')||(ctr3=='back'&&jeepNo==='jeep3')){
 
+        console.log('lat3 unde');
+          console.log('start last index');
+          console.log(ctr);
+          console.log(startpoint);
+          console.log(ctr.lastIndexOf(startpoint));
+          return ctr.lastIndexOf(startpoint);
+      }
+    // }
+    // else if(latlng3!==undefined){
+    //   console.log('defined');
+    //   if ((ctr1=='forth'&&jeepNo==='jeep1')||(ctr2=='forth'&&jeepNo==='jeep2')||(ctr3=='forth'&&jeepNo==='jeep3')) {
+    //     console.log('start last index');
+    //     console.log(ctr);
+    //     console.log(startpoint);
+    //     console.log(ctr.lastIndexOf(startpoint));
+    //     console.log(ctr.lastIndexOf(startpoint));
+    //     return ctr.lastIndexOf(startpoint);
+    //   }
+    //   else if(((ctr1=='back'&&jeepNo==='jeep1')||(ctr2=='back'&&jeepNo==='jeep2')||(ctr3=='back'&&jeepNo==='jeep3'))){
+    //     console.log(jeepNo);
+    //     console.log('start index of');
+    //     console.log(startpoint);
+    //     console.log(ctr);
+    //     console.log(ctr.indexOf(startpoint));
+    //     return ctr.indexOf(startpoint);
+    //   }
+    // }
   }
 
   //match the selected end point to the end point array
-  function getEndPoints(endpoint,ctr){
+  function getEndPoints(endpoint,ctr,jeepNo){
 
     console.log(endpoint);
     console.log(ctr);
-    if (ctr1=='forth') {
+    console.log(ctr1);
+    console.log(ctr1=='back'||ctr2=='back'||ctr3=='back');
+    console.log(ctr1=='forth'||ctr2=='forth'||ctr3=='forth');
+
+    // if (latlng3===undefined) {
+      if((ctr1=='1ride'&&ctr2=='forth'&&jeepNo==='jeep1')||(ctr1=='forth'&&jeepNo==='jeep1')||(ctr2=='forth'&&jeepNo==='jeep2')||(ctr3=='forth'&&jeepNo==='jeep3')) {
         console.log('end index of');
+        console.log(ctr.indexOf(endpoint));
         return ctr.indexOf(endpoint);
-    }
-    else {
-        console.log('end last index');
-        console.log(ctr);
-        console.log(endpoint);
-        console.log(ctr.lastIndexOf(endpoint));
-        return ctr.lastIndexOf(endpoint);
-    }
+      }
+      if((ctr1=='1ride'&&ctr2=='back'&&jeepNo==='jeep1')||(ctr1=='back'&&jeepNo==='jeep1')||(ctr2=='back'&&jeepNo==='jeep2')||(ctr3=='back'&&jeepNo==='jeep3')){
+          console.log('end last index');
+          console.log(ctr);
+          console.log(endpoint);
+          console.log(ctr.lastIndexOf(endpoint));
+          console.log(ctr.lastIndexOf(endpoint));
+          return ctr.lastIndexOf(endpoint);
+      }
+    // }
+    // else if (latlng3!==undefined) {
+      // if ((ctr1=='1ride'&&ctr2=='forth'&&jeepNo==='jeep1')||(ctr1=='forth'&&jeepNo==='jeep1')||(ctr2=='forth'&&jeepNo==='jeep2')||(ctr3=='forth'&&jeepNo==='jeep3')) {
+      //   console.log('end last index');
+      //   console.log(ctr);
+      //   console.log(endpoint);
+      //   console.log(ctr.lastIndexOf(endpoint));
+      //   console.log(ctr.lastIndexOf(endpoint));
+      //   return ctr.lastIndexOf(endpoint);
+      // }
+      // else if((ctr1=='1ride'&&ctr2=='back'&&jeepNo==='jeep1')||(ctr1=='back'&&jeepNo==='jeep1')||(ctr2=='back'&&jeepNo==='jeep2')||(ctr3=='back'&&jeepNo==='jeep3')){
+      //   console.log('end index of');
+      //   console.log(ctr.indexOf(endpoint));
+      //   return ctr.indexOf(endpoint);
+      // }
+    // }
+
+
   }
 
   function setColorCode(controlDiv, map,color,jname) {
@@ -1045,25 +1078,25 @@ var lat3Coords;
     })
     .then(function successCallback(response) {
 
-      if(ctr == 'from'){
+      if(ctr == 'jeep1'){
         console.log('enter from');
-        processSnapToRoadResponse(response.data,'from');
-        drawSnappedPolyline(snappedCoordinates1,'from');
+        processSnapToRoadResponse(response.data,'jeep1');
+        drawSnappedPolyline(snappedCoordinates1,'jeep1');
       }
 
-      if(ctr=='to'){
+      if(ctr=='jeep2'){
         console.log(response.data);
         console.log('enter to');
-        processSnapToRoadResponse(response.data,'to');
-        drawSnappedPolyline(snappedCoordinates2,'to');
+        processSnapToRoadResponse(response.data,'jeep2');
+        drawSnappedPolyline(snappedCoordinates2,'jeep2');
       }
 
 
-      if(ctr=='mid'){
+      if(ctr=='jeep3'){
         console.log(response.data);
         console.log('enter mid');
-        processSnapToRoadResponse(response.data,'mid');
-        drawSnappedPolyline(snappedCoordinates3,'mid');
+        processSnapToRoadResponse(response.data,'jeep3');
+        drawSnappedPolyline(snappedCoordinates3,'jeep3');
       }
 
       else {
@@ -1091,7 +1124,7 @@ var lat3Coords;
     snappedCoordinates2 = [];
     var originalIndexes3 = [];
     snappedCoordinates3 = [];
-    if(ctr == 'from'){
+    if(ctr == 'jeep1'){
       console.log('process from');
       for (var i = 0; i < data.snappedPoints.length; i++) {
         var latlng1 = {
@@ -1110,7 +1143,7 @@ var lat3Coords;
         snappedCoordinates1.push(latlng1);
       }
     }
-    if(ctr=='to'){
+    if(ctr=='jeep2'){
       console.log('process to');
       for (var j = 0; j < data.snappedPoints.length; j++) {
         var latlng2 = {
@@ -1129,7 +1162,7 @@ var lat3Coords;
         snappedCoordinates2.push(latlng2);
       }
     }
-    if(ctr=='mid'){
+    if(ctr=='jeep3'){
       console.log('process to');
       for (var k = 0; k < data.snappedPoints.length; k++) {
         var latlng3 = {
@@ -1160,7 +1193,7 @@ var lat3Coords;
 
 
 
-    if(ctr =='from'){
+    if(ctr =='jeep1'){
         console.log(snappedCoords);
       snappedPolyline1 = new google.maps.Polyline({
         path: snappedCoords,
@@ -1180,7 +1213,7 @@ var lat3Coords;
       console.log(polylines1);
       console.log('draw from');
     }
-    if(ctr=='to'){
+    if(ctr=='jeep2'){
       console.log('draw to');
       console.log(snappedCoords);
       snappedPolyline2 = new google.maps.Polyline({
@@ -1199,7 +1232,7 @@ var lat3Coords;
       polylines2.push(snappedPolyline2);
       console.log(polylines2);
     }
-    if(ctr=='mid'){
+    if(ctr=='jeep3'){
     lat3Coords=snappedCoords;
       console.log('draw mid');
       console.log(snappedCoords);
@@ -1219,8 +1252,6 @@ var lat3Coords;
       polylines3.push(snappedPolyline3);
       console.log(polylines3);
     }
-
-
 
     for (var i = 0; i < snappedCoords.length; i++) {
       var marker = addMarker(snappedCoords[i],'3rd');
@@ -1248,87 +1279,35 @@ var lat3Coords;
 
 console.log(points2);
     console.log(points);
-    if(points2!==null){
-      var markerPoints = [points.text,points2.text];
-      console.log(markerPoints);
+      var records;
+      if (points2!==null) {
+        records = [{lat:points.lat,lng:points.lng,text:points.text},{lat:points2.lat,lng:points2.lng,text:points2.text}];
+      }
+      else {
+        records = points;
+      }
 
-      var point = points.lat +","+ points.lng +"|"+ points2.lat +","+ points2.lng ;
-
-      $http({
-        method: 'GET',
-        url: 'https://roads.googleapis.com/v1/snapToRoads',
-        params: {
-          interpolate: true,
-          key: API_KEY,
-          path: point,
-        }
-      })
-      .then(function successCallback(response) {
-        for (var i = 0; i < response.data.snappedPoints.length; i++) {
-          var markerPos = new google.maps.LatLng(response.data.snappedPoints[i].location.latitude, response.data.snappedPoints[i].location.longitude);
-
-          var marker = new google.maps.Marker({
-              map: map,
-              animation: google.maps.Animation.DROP,
-              position: markerPos
-          });
-
-          var infoWindowContent = "<h4>" + markerPoints[i] + "</h4>";
-          addInfoWindow(marker, infoWindowContent);
-
-        }
-
-
-      },
-      function errorCallback(response) {
-        console.log(response.data);
-      });
-    }
-    else if (ctr1==='1ride'&&ctr2===undefined) {
-          var markerPos = new google.maps.LatLng(points1.lat,points1.lng);
-          console.log(markerPos);
-          var marker = new google.maps.Marker({
-              map: map,
-              animation: google.maps.Animation.DROP,
-              position: markerPos
-          });
-
-          var infoWindowContent = "<h4>" + points1.text +"</h4>";
-          addInfoWindow(marker, infoWindowContent);
-          console.log(end1Ctr);
-          var string = end1Ctr;
-          var arr = string.split(",");
-          console.log(arr[0]);
-
-          var markerPos2 = new google.maps.LatLng(arr[0],arr[1]);
-          console.log(markerPos);
-          var marker2 = new google.maps.Marker({
-              map: map,
-              animation: google.maps.Animation.DROP,
-              position: markerPos2
-          });
-
-          infoWindowContent = "<h4>" + $stateParams.toId +"</h4>";
-          addInfoWindow(marker2, infoWindowContent);
-
-    }
-    else{
-      var records = points;
       console.log(records);
 
       for (var x = 0; x < records.length; x++) {
-        var markerPos3 = new google.maps.LatLng(records[x].lat,records[x].lng);
-        var marker3 = new google.maps.Marker({
+        var markerPos = new google.maps.LatLng(records[x].lat,records[x].lng);
+        var marker = new google.maps.Marker({
             map: map,
             animation: google.maps.Animation.DROP,
-            position: markerPos3
+            position: markerPos
         });
-
-        var infoWindowContent3 = "<h4>" + points[x].text +"</h4>";
-        addInfoWindow(marker3, infoWindowContent3);
+        var infoWindowContent;
+        if (points2!==null) {
+          infoWindowContent = "<h4>" + records[x].text + "</h4>";
+          addInfoWindow(marker, infoWindowContent);
+        }
+        else{
+          infoWindowContent = "<h4>" + points[x].text +"</h4>";
+          addInfoWindow(marker, infoWindowContent);
+        }
       }
-
-    }
+    //
+    // }
 
 
 
@@ -1370,11 +1349,6 @@ console.log(points2);
     for (var i = 0; i < markers.length; i++) {
       bounds.extend(markers[i].getPosition());
     }
-    // for (var i=0; i<markers.length; i++) {
-    //     if(markers[i].getVisible()) {
-    //         bounds.extend( markers[i].getPosition() );
-    //     }
-    // }
     map.fitBounds(bounds);
   }
 
@@ -1386,13 +1360,11 @@ console.log(points2);
     $ionicLoading.show({
       template: 'You must be connected to the Internet to view this map.',
       hideOnStateChange: true,
-
       duration: 5000
     });
   }
 
   function loadGoogleMaps(){
-
     $ionicLoading.show({
       content: 'Loading',
       animation: 'fade-in',
@@ -1414,7 +1386,7 @@ console.log(points2);
     script.type = "text/javascript";
     script.id = "googleMaps";
 
-    //Note the callback function in the URL is the one we created above
+    //Note the callback function in the URL
     script.src = 'https://maps.googleapis.com/maps/api/js?libraries=places&callback=mapInit';
 
     document.body.appendChild(script);
@@ -1467,11 +1439,13 @@ console.log(points2);
 
   return {
     init: function(options){
+      console.log('123');
         console.log(options);
         console.log(points2);
 
         ctr1=options.ctr1;
         ctr2=options.ctr2;
+        ctr3=options.ctr3;
 
         console.log(ctr2);
 
@@ -1480,9 +1454,12 @@ console.log(points2);
         points1 = options.marker_1;
         console.log(options.jeep_2!==undefined);
         console.log(options.jeep_2);
-        if(ctr1==='1ride'&&ctr2===undefined&&latlng2===undefined){
+        console.log(options.jeep_3);
+        if(ctr1==='1ride'&&(ctr2==='forth'||ctr2==='back')){
             console.log(options.end1);
             end1Ctr = options.end1;
+            console.log(end1Ctr);
+            points2 = options.marker_2;
         }
 
         else if (options.jeep_2!==undefined) {
@@ -1493,6 +1470,7 @@ console.log(points2);
             end1Ctr = options.end1;
             end2Ctr = options.end2;
             if(options.jeep_3!==undefined){
+              console.log('jeep3 not unde');
                 latlng3 = options.jeep_3;
                 points3 = options.marker_3;
                 end1Ctr = options.end1;

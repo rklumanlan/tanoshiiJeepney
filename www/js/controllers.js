@@ -55,25 +55,24 @@ angular.module('starter.controllers', [])
           if(from == 'Angeles City Hall' && (to == 'Angeles Medical Center Inc.' || to == 'Dr. Amando L. Garcia Medical Center, Inc.') ){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'MARISOL-PAMPANG';
-            jeep1End = '15.137799,120.588961';
+            jeep1End = '15.13784,120.58891';
             jeep2End = '15.137851,120.588826';
             getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','back');
           }
-
           if(from == 'Angeles City Hall' && (to == 'Angeles University Foundation' || to == 'Angeles University Foundation Medical Center' || to == 'Diamond Subdivision' ||
           to == 'Fields Avenue' || to == 'Immaculate Concepcion Parish' || to == 'Main Gate Terminal' || to == 'SM City Clark' || to == 'Marisol' || to == 'Savers Mall' || to == 'Systems Plus College Foundation')){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'CHECK-POINT-HOLY-HI-WAY';
             jeep1End = '15.142913,120.596736';
             jeep2End = '15.142963,120.596637';
-            getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','forth');
+            getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','back');
             console.log('iffff');
           }
 
           if(from == 'Angeles City Hall' && to == 'Bancal'){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'CHECK-POINT-HENSONVILLE-HOLY';
-            jeep1End = '15.137799,120.588961';
+            jeep1End = '15.13784,120.58891';
             jeep2End = '15.137851,120.588826';
             getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','back');
           }
@@ -81,15 +80,15 @@ angular.module('starter.controllers', [])
           if(from == 'Angeles City Hall' && to == 'Citi Center'){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'PANDAN-PAMPANG';
-            jeep1End = '15.153694,120.604812';
-            jeep2End = '15.15367,120.604794';
+            jeep1End = '15.153783,120.604851';
+            jeep2End = '15.15372,120.60482';
             getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'forth','forth');
           }
 
           if(from == 'Angeles City Hall' && (to == 'Holy Angel University' || to == 'Holy Rosary Parish Church' || to == 'Jenra Mall' || to == 'Nepo Mall' || to == 'Sacred Heart Medical Center')){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'VILLA-PAMPANG';
-            jeep1End = '15.137799,120.588961';
+            jeep1End = '15.13784,120.58891';
             jeep2End = '15.13786,120.58885';
             getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','back');
           }
@@ -115,7 +114,7 @@ angular.module('starter.controllers', [])
           if(from == 'Angeles City Hall' && to == 'Lourdes North West'){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'CHECK-POINT-HOLY';
-            jeep1End = '15.137799,120.588961';
+            jeep1End = '15.13784,120.58891';
             jeep2End = '15.137851,120.588826';
             getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','back');
           }
@@ -124,33 +123,79 @@ angular.module('starter.controllers', [])
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'CHECK-POINT-HOLY';
             jeep3 = 'PAMPANG-HOLY';
-            jeep1End = '15.137799,120.588961';
+            jeep1End = '15.13784,120.58891';
             jeep2End = '15.137851,120.588826';
             jeep3End = '15.13914,120.58746';
             getJeep(jeep1,jeep2,jeep3,jeep1End,jeep2End,jeep3End,'back','back','forth');
           }
-
-
 
           if(from == 'Angeles City Hall' &&
           (to == 'Timog Park Gate 1' || to == 'Timog Park Gate 2' || to == 'Timog Park Gate 3' || to == 'Transfer' || to == 'Villa Sol' || to == 'Margot' || to == 'Sapang Bato' || to == 'Anunas' ||to == 'Carmenville' || to == 'City College of Angeles' || to == 'Cuayan' || to == 'Friendship' || to == 'Friendship Plaza')){
             jeep1 = 'PANDAN-PAMPANG';
             jeep2 = 'CHECK-POINT-HOLY';
             jeep3 = 'SAPANG BATO-ANGELES';
-            jeep1End = '15.137799,120.588961';
+            jeep1End = '15.13784,120.58891';
             jeep2End = '15.137851,120.588826';
             jeep3End = '15.14186,120.58799';
-            getJeep(jeep1,jeep2,jeep3,jeep1End,jeep2End,jeep3End,'back','back','forth');
+            getJeep(jeep1,jeep2,jeep3,jeep1End,jeep2End,jeep3End,'back','forth','forth');
           }
 
-          if((from == 'Angeles Medical Center Inc.' || from == 'Dr. Amando L. Garcia Medical Center, Inc.')&& to == 'Angeles City Hall' ){
+          if((from == 'Angeles Medical Center Inc.')&& to == 'Angeles City Hall' ){
             jeep1 = 'MARISOL-PAMPANG';
             jeep2 = 'PANDAN-PAMPANG';
-            jeep1End = '15.143304,120.59643';
+            jeep1End = '15.143088,120.596546';
             jeep2End = '15.142838,120.596806';
             getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','forth');
           }
+
+          if(from == 'Angeles Medical Center Inc.' && to == 'Angeles University Foundation' ){
+            jeep1 = 'MARISOL-PAMPANG';
+            jeep1End = '15.14544,120.59530';
+            getJeep(jeep1,null,null,jeep1End,null,null,'back',null);
+          }
+
+          if(from == 'Angeles Medical Center Inc.' && to == 'Angeles University Foundation Medical Center'){
+            jeep1 = 'MARISOL-PAMPANG';
+            jeep1End = '15.14527,120.59539';
+            getJeep(jeep1,null,null,jeep1End,null,null,'back',null);
+          }
+
+          if((from == 'Angeles Medical Center Inc.')&& to == 'Bancal' ){
+            jeep1 = 'CHECK-POINT-HENSONVILLE-HOLY';
+            jeep1End = '15.14131,120.58783';
+            getJeep(jeep1,null,null,jeep1End,null,null,'back',null);
+          }
+
+          if((from == 'Angeles Medical Center Inc.')&& to == 'Citi Center' ){
+            jeep1 = 'MARISOL-PAMPANG';
+            jeep2 = 'PANDAN-PAMPANG';
+            jeep1End = '15.143088,120.596546';
+            jeep2End = '15.142838,120.596806';
+            getJeep(jeep1,jeep2,null,jeep1End,jeep2End,null,'back','forth');
+          }
+
+          if(from == 'Angeles Medical Center Inc.' && to == 'Diamond Subdivision'){
+            jeep1 = 'CHECK-POINT-HOLY';
+            jeep1End = '15.14131,120.58783';
+            getJeep(jeep1,null,null,jeep1End,null,null,'back',null);
+          }
+
+          if(from == 'Angeles Medical Center Inc.' && to == 'Dr. Amando L. Garcia Medical Center, Inc.'){
+            jeep1 = 'MARISOL-PAMPANG';
+            jeep1End = '15.14124,120.58907';
+            getJeep(jeep1,null,null,jeep1End,null,null,'back',null);
+          }
+
+          if((from == 'Angeles Medical Center Inc.')&& (to == 'Timog Park Gate 1' || to == 'Timog Park Gate 2' || to == 'Timog Park Gate 3' || to == 'Transfer' || to == 'Villa Sol' || to == 'Margot' || to == 'Sapang Bato' || to == 'Anunas' ||to == 'Carmenville' || to == 'City College of Angeles' || to == 'Cuayan' || to == 'Friendship' || to == 'Friendship Plaza')){
+            jeep1 = 'SAPANG BATO-ANGELES';
+            jeep1End = '15.14186,120.58799';
+            getJeep(jeep1,null,null,jeep1End,null,null,'back',null);
+          }
+
         }
+
+
+
         else{
           console.log('eellss');
 
@@ -180,9 +225,24 @@ angular.module('starter.controllers', [])
           console.log(ctr1);
           console.log(ctr2);
           if (jeep2===null&&end2===null) {
-              var from1 = $stateParams.fromId;
+            var from1;
+
+            if ($stateParams.toId=== 'Timog Park Gate 1' || $stateParams.toId==='Timog Park Gate 2' || $stateParams.toId==='Timog Park Gate 3' || $stateParams.toId==='Transfer' || $stateParams.toId==='Villa Sol' || $stateParams.toId==='Margot' || $stateParams.toId==='Sapang Bato' || $stateParams.toId==='Anunas' ||$stateParams.toId==='Carmenville' || $stateParams.toId==='City College of Angeles' || $stateParams.toId==='Cuayan' || $stateParams.toId==='Friendship' || $stateParams.toId==='Friendship Plaza') {
+              from1 = $stateParams.toId;
+            }
+            else if ($stateParams.toId==='Bancal'||$stateParams.toId==='Diamond Subdivision'||$stateParams.toId==='Dr. Amando L. Garcia Medical Center, Inc.') {
+              from1 = $stateParams.toId;
+            }
+            else {
+              from1 = $stateParams.fromId;
+            }
+
 
               options = {};
+
+              options.end1 = end1;
+              options.ctr1 = '1ride';
+              options.ctr2 = ctr1;
 
               var data1 = getJeepDocs(jeep1)
                 .then(function(result) {
@@ -190,19 +250,47 @@ angular.module('starter.controllers', [])
                   return options;
                 });
 
-              var pointMarker1 = getJeepMarkers(from1).then(function(result) {
-                options.marker_1 = result[0];
-                console.log(result);
-                return options;
-              });
+              if ($stateParams.fromId =='Angeles Medical Center Inc.'&&$stateParams.toId!='Angeles University Foundation'&&$stateParams.toId!='Angeles University Foundation Medical Center') {
+                console.log('1ride 1 maker');
+                var pointMarker1 = getJeepMarkers(from1).then(function(result) {
+                  options.marker_1 = result[0];
+                  console.log(result);
+                  return getJeepMarkers($stateParams.fromId);
+                }).then(function(result){
+                  options.marker_2 = result[0];
+                  console.log(result);
+                  console.log(options);
+                  return options;
+                });
 
-              options.end1 = end1;
-              options.ctr1 = '1ride';
+                pointMarker1.then(function(result) {
+                  console.log(result);
+                  GoogleMaps.init(options);
+                });
+              }
+              else {
+                console.log('1ride 2 marker');
+                var pointMarker2 = getJeepMarkers(from1).then(function(result) {
+                  options.marker_1 = result[0];
+                  console.log(result);
+                  return getJeepMarkers($stateParams.toId);
+                }).then(function(result){
+                  options.marker_2 = result[0];
+                  console.log(result);
+                  return options;
+                });
 
-              pointMarker1.then(function(result) {
-                console.log(result);
-                GoogleMaps.init(options);
-              });
+                pointMarker2.then(function(result) {
+                  console.log(result);
+                  GoogleMaps.init(options);
+                });
+              }
+
+
+
+
+
+
           }
           else if (jeep3!==null) {
             var from = $stateParams.fromId;
@@ -251,7 +339,7 @@ angular.module('starter.controllers', [])
 
             pointMarker.then(function(result) {
               console.log(result);
-              GoogleMaps.init(options,null,null);
+              GoogleMaps.init(options);
             });
           }
           else{
