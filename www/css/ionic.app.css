@@ -7721,11 +7721,23 @@ a.button {
   vertical-align: bottom; }
 
 .strechDiv {
-  background-color: green;
   position: absolute;
+  overflow: auto;
+  top: 3%;
+  bottom: 3%;
+  left: 3%;
+  right: 3%;
+  background-color: #F5F5F5;
+  padding: 15px; }
+
+.backDiv {
+  position: absolute;
+  overflow: auto;
   top: 0;
   bottom: 0;
-  width: 100%; }
+  left: 0;
+  right: 0;
+  background-color: #B2EEFF; }
 
 .divider-title h2 {
   font-size: 24px;
