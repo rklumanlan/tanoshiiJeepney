@@ -1,29 +1,32 @@
-<ion-view view-title="ジープニー経路">
+<ion-view view-title="{{'tab1_title' | translate}}">
   <ion-content>
-
     <ion-list>
       <ion-item class="item item-divider divider-title" ng-if="ac_jeeps">
-        <h2>Angeles City</h2>
+        <h2 translate='route_header1'></h2>
       </ion-item>
       <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="ac_jeep in ac_jeeps" type="item-text-wrap" href="#/tab/jeeps/{{ac_jeep._id}}" ng-if="ac_jeeps">
         <img ng-src="{{ac_jeep.type}}">
-        <h2>{{ac_jeep.name}}</h2>
-        <p>{{ac_jeep.color}}</p>
+        <h2 translate='{{ac_jeep.name}}'></h2>
+        <p translate='{{ac_jeep.color}}'></p>
         <i class="icon ion-chevron-right icon-accessory"></i>
       </ion-item>
     </ion-list>
     <ion-list>
       <ion-item class="item item-divider divider-title" ng-if="c_jeeps">
-        <h2>Clark </h2>
+        <h2 translate='route_header2'></h2>
       </ion-item>
       <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="c_jeep in c_jeeps " type="item-text-wrap" href="#/tab/jeeps/{{c_jeep._id}}" ng-if="c_jeeps">
 
         <img ng-src="{{c_jeep.type}}">
-        <h2>{{c_jeep.name}}{{c_jeep.letter}}</h2>
-        <p>{{c_jeep.color}}</p>
+        <h2 translate='{{c_jeep.name}}'></h2>
+        <p translate='{{c_jeep.color}}'></p>
         <i class="icon ion-chevron-right icon-accessory"></i>
         </ion-option-button>
       </ion-item>
     </ion-list>
+
+
+
+
   </ion-content>
 </ion-view>
